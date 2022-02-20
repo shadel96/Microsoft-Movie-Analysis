@@ -1,5 +1,5 @@
 
-![title](./images/title_graphic.png)
+[](./images/title_graphic.png)
 
 # Microsoft Movie Profitability Analysis
 
