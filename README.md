@@ -47,7 +47,7 @@ Using this Data, Microsoft can guarantee it will make the safest and most profit
 
 
 ## More Information
-The full analysis can be found in the [Jupyter Notebook](./movie_analysis.ipynb). Further conclusions can be found in the [presentation](./microsoft_analysis_presentation.pdf).
+The full analysis can be found in the [Jupyter Notebook](./movie_analysis.ipynb). Further conclusions can be found in the [presentation](./movie_analysis_presentation.pdf).
 
 ## Repository Structure
 
