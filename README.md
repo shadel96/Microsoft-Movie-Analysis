@@ -1,5 +1,5 @@
 
-[img](images/title_graphic.jpg)
+![](images/title_graphic.jpg)
 
 # Microsoft Movie Profitability Analysis
 
@@ -23,23 +23,23 @@ The results of the analysis clearly demonstrate that release timing and genre of
 
 A films budget plays at least some role it's profitability, but this information is by no means the only or most sigificant measure of potential success.
 
-[](./images/budget_vs_profit_scatter.png)
+![](./images/budget_vs_profit_scatter.png)
 
 Early Spring and Summer tend to see the highest profits overall. Around the Holidays, profitability rises again to a lesser extent.
 
-[](./images/avg_prof_by_month.png)
+![](./images/avg_prof_by_month.png)
 
-[](./images/avg_budget_vs_gross_by_month.png)
+![](./images/avg_budget_vs_gross_by_month.png)
 
 Similarly, specific genres show clear profitability over others. Particularly Animated, Sci-Fi, Comedy, and Adventure films. These films also have month-specific correlations that are similar but not identical to overall movie profitability trends.
 
-[](./images/profit_by_genre.png)
+![](./images/profit_by_genre.png)
 
-[](./images/profit_genre_monthly.png)
+![](./images/profit_genre_monthly.png)
 
 Lastly, there is limited evidence to suggest that understanding what sort of films yield the most positive reviews could also influence each film's profitability. This is not as crucial as the genre and release date, but nonetheless the correlation can benefit Microsoft going forward.
 
-[](./images/reviews_vs_profits_top_genres.png)
+![](./images/reviews_vs_profits_top_genres.png)
 
 
 ## Conclusion
@@ -48,3 +48,13 @@ Using this Data, Microsoft can guarantee it will make the safest and most profit
 
 ## More Information
 The full analysis can be found in the [Jupyter Notebook](./movie_analysis.ipynb). Further conclusions can be found in the [presentation](./microsoft_analysis_presentation.pdf).
+
+## Repository Structure
+
+```
+├── data
+├── images
+├── README.md
+├── movie_analysis_presentation.pdf
+└── movie_analysis.ipynb
+```
